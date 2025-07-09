@@ -1,0 +1,25 @@
+[
+  {
+    "id": "backlog",
+    "category": "Backlogs",
+    "tasks": [
+      { "id": 1, "name": "Backlog" },
+      { "id": 2, "name": "Backlog2" }
+    ]
+  },
+  {
+    "id": "doing",
+    "category": "Doing",
+    "tasks": [{ "id": 3, "name": "Doing" }]
+  },
+  {
+    "id": "review",
+    "category": "Review",
+    "tasks": [{ "id": 4, "name": "Review" }]
+  },
+  {
+    "id": "done",
+    "category": "Done",
+    "tasks": [{ "id": 5, "name": "Done" }]
+  }
+]
